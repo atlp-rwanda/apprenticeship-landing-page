@@ -1,1 +1,1 @@
-# andela-kakpbome.github.io
+# https://github.com/atlp-rwanda/apprenticeship-landing-page
