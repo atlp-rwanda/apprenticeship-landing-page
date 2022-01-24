@@ -1,1 +1,1 @@
-# https://github.com/atlp-rwanda/apprenticeship-landing-page
+# https://atlp-rwanda.github.io/apprenticeship-landing-page/
